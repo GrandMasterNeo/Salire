@@ -1,12 +1,20 @@
-# Salire
-Salīre™ — A free and open-source Calcudoku game emphasizing mathematical integrity, human deduction, adaptive difficulty, and arithmetic logic.
+# Salīre — The Art of Logical Mastery
 
+**Early experimental development (pre-alpha). Not ready for release.**
+
+Derived from the Latin *salīre*, meaning "to leap," Salīre is an arithmetic Latin square-based puzzle game designed to cultivate logical reasoning, intellectual curiosity and progressive self-mastery through independent mathematical discovery.
+
+Designed for individuals of all ages and skill levels, Salīre offers a variety of difficulties and grid sizes to accommodate the abilities you have already acquired throughout life and those you aspire to develop — and for those just beginning to discover the possibilities within themselves, the realization that with enough effort, they too may reach into the sky and grasp the stars.
+
+Grounded in combinatorics and deductive logic, Salīre prioritizes productive intellectual stimulation, mathematical integrity, intrinsic motivation and intellectual autonomy.
+
+Its purpose is not simply to solve puzzles, but to cultivate the capacity to solve problems by developing and refining logical reasoning, critical thinking and abstract reasoning skills; to foster a sense of confidence through independently discovering, utilizing and applying your learned cognitive abilities; and so to empower you to further your intellectual development however far you wish to go.
+
+**Your journey. Your potential. Your discoveries. The sky isn't the limit — it's where the journey began.**
 
 ---
 
-# Salīre™ — Calcudoku
-
-**Early experimental development (pre-alpha). Not ready for release.**
+## Project background
 
 Salīre is derived from the open-source Gauguin game. Original authors and contributors retain credit and rights to their inherited work. This is an independent repository, not necessarily a GitHub-linked fork.
 
