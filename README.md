@@ -14,6 +14,10 @@ Its purpose is not simply to solve puzzles, but to cultivate the capacity to sol
 
 ---
 
+## Ethical commitment
+
+Read [Salīre’s Ethical Charter — Draft 1](ETHICAL-CHARTER.md) for our ethical design principles and mathematical integrity commitments.
+
 ## Project background
 
 Salīre is derived from the open-source Gauguin game. Original authors and contributors retain credit and rights to their inherited work. This is an independent repository, not necessarily a GitHub-linked fork.
