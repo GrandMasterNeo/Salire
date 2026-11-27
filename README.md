@@ -1,4 +1,13 @@
+<p align="center">
+  <img src="assets/salire-icon.svg" width="128" height="128" alt="Salīre app icon">
+</p>
+
 # Salīre — The Art of Logical Mastery
+
+<p align="center">
+  <img src="assets/salire-promotional.webp" width="760" alt="A figure leaps between mountain cliffs beneath a sky filled with mathematical patterns">
+</p>
+
 
 **Early experimental development (pre-alpha). Not ready for release.**
 
